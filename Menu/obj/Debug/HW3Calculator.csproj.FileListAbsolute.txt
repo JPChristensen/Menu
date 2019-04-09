@@ -1,0 +1,14 @@
+C:\Users\Jakob Christensen\Desktop\HW3Calculator\HW3Calculator\bin\Debug\HW3Calculator.exe.config
+C:\Users\Jakob Christensen\Desktop\HW3Calculator\HW3Calculator\bin\Debug\HW3Calculator.exe
+C:\Users\Jakob Christensen\Desktop\HW3Calculator\HW3Calculator\bin\Debug\HW3Calculator.pdb
+C:\Users\Jakob Christensen\Desktop\HW3Calculator\HW3Calculator\obj\Debug\HW3Calculator.csprojAssemblyReference.cache
+C:\Users\Jakob Christensen\Desktop\HW3Calculator\HW3Calculator\obj\Debug\HW3Calculator.MenuForm.resources
+C:\Users\Jakob Christensen\Desktop\HW3Calculator\HW3Calculator\obj\Debug\HW3Calculator.Properties.Resources.resources
+C:\Users\Jakob Christensen\Desktop\HW3Calculator\HW3Calculator\obj\Debug\HW3Calculator.csproj.GenerateResource.cache
+C:\Users\Jakob Christensen\Desktop\HW3Calculator\HW3Calculator\obj\Debug\HW3Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Jakob Christensen\Desktop\HW3Calculator\HW3Calculator\obj\Debug\HW3Calculator.exe
+C:\Users\Jakob Christensen\Desktop\HW3Calculator\HW3Calculator\obj\Debug\HW3Calculator.pdb
+C:\Users\Jakob Christensen\Desktop\HW3Calculator\HW3Calculator\obj\Debug\HW3Calculator.MathForm.resources
+C:\Users\Jakob Christensen\Desktop\HW3Calculator\HW3Calculator\obj\Debug\HW3Calculator.Programming.resources
+C:\Users\Jakob Christensen\Desktop\HW3Calculator\HW3Calculator\obj\Debug\HW3Calculator.Measurements.resources
+C:\Users\Jakob Christensen\Desktop\HW3Calculator\HW3Calculator\obj\Debug\HW3Calculator.Time.resources
